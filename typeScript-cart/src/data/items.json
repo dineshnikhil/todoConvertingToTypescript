@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"name": "Product A",
+		"price": 19.99,
+		"imgurl": "https://example.com/productA.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Product B",
+		"price": 29.99,
+		"imgurl": "https://example.com/productB.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Product C",
+		"price": 15.49,
+		"imgurl": "https://example.com/productC.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Product D",
+		"price": 9.99,
+		"imgurl": "https://example.com/productD.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Product E",
+		"price": 24.95,
+		"imgurl": "https://example.com/productE.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Product F",
+		"price": 12.5,
+		"imgurl": "https://example.com/productF.jpg"
+	},
+	{
+		"id": 7,
+		"name": "Product G",
+		"price": 8.99,
+		"imgurl": "https://example.com/productG.jpg"
+	},
+	{
+		"id": 8,
+		"name": "Product H",
+		"price": 21.0,
+		"imgurl": "https://example.com/productH.jpg"
+	},
+	{
+		"id": 9,
+		"name": "Product I",
+		"price": 17.75,
+		"imgurl": "https://example.com/productI.jpg"
+	},
+	{
+		"id": 10,
+		"name": "Product J",
+		"price": 39.95,
+		"imgurl": "https://example.com/productJ.jpg"
+	}
+]
